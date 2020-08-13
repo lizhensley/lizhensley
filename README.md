@@ -18,7 +18,7 @@ I'm also a developer and product manager at [Sicklesoft](sicklesoft), working wi
 
 ---
 
-### Languages and Tools
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
@@ -38,7 +38,7 @@ I'm also a developer and product manager at [Sicklesoft](sicklesoft), working wi
 <br />
 <br />
 
-### Connect with me
+### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://images-na.ssl-images-amazon.com/images/I/31KluT5nBkL.png" />][twitter]
