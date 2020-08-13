@@ -26,6 +26,7 @@ I'm also a developer and product manager at [Sicklesoft](sicklesoft), working wi
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
 [<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][Typescript]
 [<img align="left" alt="Angular" width="26px" src="https://miro.medium.com/max/588/1*15CYVZdpsxir8KLdxEZytg.png" />][Angular]
+[<img align="left" alt="Eclipse" width="26px" src="https://git.eclipse.org/c/platform/eclipse.platform.git/plain/platform/org.eclipse.platform/eclipse256.png" />][Eclipse]
 [<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />][Java]
 [<img align="left" alt="XCode" width="26px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png" />][XCode]
 [<img align="left" alt="Swift" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png" />][Swift]
@@ -60,6 +61,7 @@ I'm also a developer and product manager at [Sicklesoft](sicklesoft), working wi
 [Javascript]: https://www.javascript.com/
 [Typescript]: https://www.typescriptlang.org/
 [Angular]: https://angular.io/
+[Eclipse]: https://www.eclipse.org/ide/
 [Java]: https://www.java.com/en/
 [XCode]: https://developer.apple.com/xcode/ide/
 [Swift]: https://swift.org/
