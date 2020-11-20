@@ -14,7 +14,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 
 🥅 &nbsp; 2020 Goal: Contribute more to Open Source projects
 
-⚡ &nbsp; Fun fact: I love to cook / bake, as well as play piano / flute
+⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮.
 
 ---
 
