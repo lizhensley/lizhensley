@@ -2,7 +2,7 @@
 
 Hi, there! 👋 I'm a Senior at UNC - Chapel Hill 🐏 studying Computer Science 💻, Music 🎶, and Astronomy 🔭. 
 <br>
-I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working with a diverse collection of projects ranging from UI/UX Design to iOS Development to Web Development. 
+I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working with a diverse collection of projects ranging from UI/UX Design to iOS and Web Development. 
 
 ## About me
 
