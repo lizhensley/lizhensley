@@ -14,7 +14,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 
 🥅 &nbsp; 2021 Goal: Contribute more to Open Source projects
 
-⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮.
+⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮
 
 ---
 
