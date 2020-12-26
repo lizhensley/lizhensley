@@ -32,7 +32,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [<img align="left" alt="Swift" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" />][Swift]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/R2bLL4S/Git-Hub-Mark-1.png" />][GitHub]
+[<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 <br />
