@@ -39,7 +39,6 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 
 <br />
 <br />
-<br />
 
 ### IDEs:
 
