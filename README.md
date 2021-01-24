@@ -56,6 +56,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />][Bootstrap]
 [<img align="left" alt="Bulma" width="26px" src="https://i.ibb.co/wWCXWcx/bulma-logo.png" />][Bulma]
+[<img align="left" alt="JQuery" width="26px" src="https://www.nicepng.com/png/full/274-2741839_jquery-jquery-logo-transparent-background.png" />][JQuery]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
 [<img align="left" alt="Anaconda" width="26px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />][Anaconda]
@@ -83,6 +84,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [Bulma]: https://bulma.io/
 [Javascript]: https://www.javascript.com/
 [Typescript]: https://www.typescriptlang.org/
+[JQuery]: https://jquery.com/
 [Python]: https://www.python.org/
 [Angular]: https://angular.io/
 [Eclipse]: https://www.eclipse.org/ide/
