@@ -52,8 +52,6 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
   <img src = "https://github-readme-stats.vercel.app/api?username=lizhensley&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lizhensley&hide=html,css&theme=tokyonight">
 </p>
-<img align="left" alt="lizhensley's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lizhensley&show_icons=true&hide_border=true" />
-
 
 
 <!--Links-->
