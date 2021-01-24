@@ -16,32 +16,50 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 
 ⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮
 
----
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
-[<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][Typescript]
-[<img align="left" alt="Angular" width="26px" src="https://miro.medium.com/max/588/1*15CYVZdpsxir8KLdxEZytg.png" />][Angular]
-[<img align="left" alt="Eclipse" width="26px" src="https://git.eclipse.org/c/platform/eclipse.platform.git/plain/platform/org.eclipse.platform/eclipse256.png" />][Eclipse]
-[<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />][Java]
-[<img align="left" alt="XCode" width="26px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png" />][XCode]
-[<img align="left" alt="Swift" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" />][Swift]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
-
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://images-na.ssl-images-amazon.com/images/I/31KluT5nBkL.png" />][twitter]
+
+<br />
+<br />
+
+---
+
+### Languages & Frameworks:
+
+[<img align="left" alt="Swift" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" />][Swift]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
+[<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][Typescript]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+[<img align="left" alt="Angular" width="26px" src="https://miro.medium.com/max/588/1*15CYVZdpsxir8KLdxEZytg.png" />][Angular]
+[<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />][Java]
+
+<br />
+<br />
+<br />
+
+### IDEs:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
+[<img align="left" alt="XCode" width="26px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png" />][XCode]
+[<img align="left" alt="PyCharm" width="26px" src="https://confluence.jetbrains.com/download/attachments/10422155/PYH?version=2&modificationDate=1449750902000&api=v2" />][PyCharm]
+[<img align="left" alt="Eclipse" width="26px" src="https://git.eclipse.org/c/platform/eclipse.platform.git/plain/platform/org.eclipse.platform/eclipse256.png" />][Eclipse]
+
+<br />
+<br />
+
+### Other Tools:
+
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
+[<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />][Bootstrap]
+[<img align="left" alt="Bulma" width="26px" src="https://i.ibb.co/wWCXWcx/bulma-logo.png" />][Bulma]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+[<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
+[<img align="left" alt="Linux" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" />][Linux]
 
 <br />
 <br />
@@ -61,10 +79,14 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [VSCode]: https://code.visualstudio.com/
 [HTML5]: https://en.wikipedia.org/wiki/HTML5
 [CSS]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+[Bootstrap]: https://getbootstrap.com/
+[Bulma]: https://bulma.io/
 [Javascript]: https://www.javascript.com/
 [Typescript]: https://www.typescriptlang.org/
+[Python]: https://www.python.org/
 [Angular]: https://angular.io/
 [Eclipse]: https://www.eclipse.org/ide/
+[PyCharm]: https://www.jetbrains.com/pycharm/
 [Java]: https://www.java.com/en/
 [XCode]: https://developer.apple.com/xcode/ide/
 [Swift]: https://swift.org/
@@ -72,3 +94,4 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [Git]: https://en.wikipedia.org/wiki/Git
 [GitHub]: https://github.com/
 [Terminal]: https://en.wikipedia.org/wiki/Terminal_(macOS)
+[Linux]: https://www.linux.org/
