@@ -45,6 +45,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="XCode" width="26px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png" />][XCode]
 [<img align="left" alt="PyCharm" width="26px" src="https://confluence.jetbrains.com/download/attachments/10422155/PYH?version=2&modificationDate=1449750902000&api=v2" />][PyCharm]
+[<img align="left" alt="Spyder" width="26px" src="https://img.icons8.com/fluent/452/spyder-ide.png" />][Spyder]
 [<img align="left" alt="Eclipse" width="26px" src="https://git.eclipse.org/c/platform/eclipse.platform.git/plain/platform/org.eclipse.platform/eclipse256.png" />][Eclipse]
 
 <br />
@@ -57,7 +58,7 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [<img align="left" alt="Bulma" width="26px" src="https://i.ibb.co/wWCXWcx/bulma-logo.png" />][Bulma]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
+[<img align="left" alt="Anaconda" width="26px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />][Anaconda]
 [<img align="left" alt="Linux" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" />][Linux]
 
 <br />
@@ -86,11 +87,12 @@ I'm also a developer and project manager at [Sicklesoft][Sicklesoft], working wi
 [Angular]: https://angular.io/
 [Eclipse]: https://www.eclipse.org/ide/
 [PyCharm]: https://www.jetbrains.com/pycharm/
+[Anaconda]: https://www.anaconda.com/
+[Spyder]: https://www.spyder-ide.org/
 [Java]: https://www.java.com/en/
 [XCode]: https://developer.apple.com/xcode/ide/
 [Swift]: https://swift.org/
 [NodeJS]: https://nodejs.org/en/
 [Git]: https://en.wikipedia.org/wiki/Git
 [GitHub]: https://github.com/
-[Terminal]: https://en.wikipedia.org/wiki/Terminal_(macOS)
 [Linux]: https://www.linux.org/
