@@ -12,7 +12,7 @@ I'm also a Developer and Project Manager at [Sicklesoft][Sicklesoft], working wi
 
 💬 &nbsp; Ask me about anything from astronomy to food to music
 
-🥅 &nbsp; 2021 Goal: Contribute more to Open Source projects
+🥅 &nbsp; 2021 Goal: Create a personal portfolio website
 
 ⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮
 
