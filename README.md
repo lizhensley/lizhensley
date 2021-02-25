@@ -53,14 +53,13 @@ I'm also a Developer and Project Manager at [Sicklesoft][Sicklesoft], working wi
 
 ### Other Tools:
 
+[<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />][Firebase]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />][Bootstrap]
 [<img align="left" alt="Bulma" width="26px" src="https://i.ibb.co/wWCXWcx/bulma-logo.png" />][Bulma]
 [<img align="left" alt="JQuery" width="26px" src="https://www.nicepng.com/png/full/274-2741839_jquery-jquery-logo-transparent-background.png" />][JQuery]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
 [<img align="left" alt="Anaconda" width="26px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />][Anaconda]
-[<img align="left" alt="Linux" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" />][Linux]
 
 <br />
 <br />
@@ -94,7 +93,6 @@ I'm also a Developer and Project Manager at [Sicklesoft][Sicklesoft], working wi
 [Java]: https://www.java.com/en/
 [XCode]: https://developer.apple.com/xcode/ide/
 [Swift]: https://swift.org/
+[Firebase]: https://firebase.google.com/
 [NodeJS]: https://nodejs.org/en/
-[Git]: https://en.wikipedia.org/wiki/Git
 [GitHub]: https://github.com/
-[Linux]: https://www.linux.org/
