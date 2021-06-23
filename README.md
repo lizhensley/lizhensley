@@ -1,8 +1,8 @@
 # Liz Hensley - @lizhensley
 
-Hi, there! 👋 I'm a Senior at UNC - Chapel Hill 🐏 studying Computer Science 💻, Music 🎶, and Astronomy 🔭. 
+Hi, there! 👋 I'm a recent graduate from UNC - Chapel Hill 🐏, where I studyied Computer Science 💻, Music 🎶, and Astronomy 🔭. 
 <br>
-I'm also a Developer and Project Manager at [Sicklesoft][Sicklesoft], working with a diverse collection of projects in iOS and Web Development. 
+I currently work as a TDP Associate at [Optum][optum], as well as a Developer and Project Manager at [Sicklesoft][sicklesoft], working with a diverse collection of projects from Cloud Security to iOS and Web Development. 
 
 ## About me
 
@@ -74,6 +74,7 @@ I'm also a Developer and Project Manager at [Sicklesoft][Sicklesoft], working wi
 
 <!--Links-->
 [sicklesoft]: https://www.sicklesoftinc.com/
+[optum]: https://www.optum.com/
 [linkedin]: https://linkedin.com/in/elizabethhensley
 [twitter]: https://twitter.com/_elizabethian
 [VSCode]: https://code.visualstudio.com/
