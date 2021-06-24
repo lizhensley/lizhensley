@@ -1,6 +1,6 @@
 # Liz Hensley - @lizhensley
 
-Hi, there! 👋 I'm a recent graduate from UNC - Chapel Hill 🐏, where I studyied Computer Science 💻, Music 🎶, and Astronomy 🔭. 
+Hi, there! 👋 I'm a recent graduate from UNC - Chapel Hill 🐏, where I studied Computer Science 💻, Music 🎶, and Astronomy 🔭. 
 <br>
 I currently work as a TDP Associate at [Optum][optum], as well as a Developer and Project Manager at [Sicklesoft][sicklesoft], working with a diverse collection of projects from Cloud Security to iOS and Web Development. 
 
