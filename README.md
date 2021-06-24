@@ -57,7 +57,7 @@ I currently work as a TDP Associate at [Optum][optum], as well as a Developer an
 [<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />][Firebase]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />][Bootstrap]
-[<img align="left" alt="Material" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMaterial_Design&psig=AOvVaw1LNJbKZg9myP-i91zyEcek&ust=1624633173725000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIia-KvEsPECFQAAAAAdAAAAABAD" />][Material]
+[<img align="left" alt="Material" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/440px-Google_Material_Design_Logo.svg.png" />][Material]
 [<img align="left" alt="JQuery" width="26px" src="https://www.nicepng.com/png/full/274-2741839_jquery-jquery-logo-transparent-background.png" />][JQuery]
 [<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
 [<img align="left" alt="Anaconda" width="26px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />][Anaconda]
