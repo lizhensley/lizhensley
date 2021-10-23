@@ -12,8 +12,6 @@ I currently work as a TDP Associate at [Optum][optum], as well as a Developer an
 
 💬 &nbsp; Ask me about anything from astronomy to food to music
 
-🥅 &nbsp; 2021 Goal: Create a personal portfolio website
-
 ⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮
 
 ### Connect with me:
