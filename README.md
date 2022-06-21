@@ -2,7 +2,7 @@
 
 Hi, there! 👋 I'm a recent graduate from UNC - Chapel Hill 🐏, where I studied Computer Science 💻, Music 🎶, and Astronomy 🔭. 
 <br>
-I currently work as a TDP Associate at [Optum][optum], and enjoy working with a diverse collection of projects in iOS and Web Development. 
+I currently work as a Software Developer at [Optum][optum], and enjoy working with a diverse collection of projects in iOS and Web Development. 
 
 ## About me
 
