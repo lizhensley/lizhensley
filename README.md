@@ -2,17 +2,7 @@
 
 Hi, there! 👋 I'm a recent graduate from UNC - Chapel Hill 🐏, where I studied Computer Science 💻, Music 🎶, and Astronomy 🔭. 
 <br>
-I currently work as a Software Developer at [Optum][optum], and enjoy working with a diverse collection of projects in iOS and Web Development. 
-
-## About me
-
-👯 &nbsp; I’m always looking to collaborate with other developers
-
-😄 &nbsp; Pronouns: She/Her
-
-💬 &nbsp; Ask me about anything from astronomy to food to music
-
-⚡ &nbsp; In my free time I like to: read 📚, bake 🍪, and play the occasional video game 🎮
+I currently work as a Software Developer, and enjoy working with a diverse collection of projects in iOS and Web Development. 
 
 ### Connect with me:
 
