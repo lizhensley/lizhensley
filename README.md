@@ -1,8 +1,6 @@
 # Liz Hensley - @lizhensley
 
-Hi, there! 👋 I'm a recent graduate from UNC - Chapel Hill 🐏, where I studied Computer Science 💻, Music 🎶, and Astronomy 🔭. 
-<br>
-I currently work as a Software Developer, and enjoy working with a diverse collection of projects in iOS and Web Development. 
+Hi, there! 👋 I'm a design-minded developer passionate about crafting accessible, user-centered web 🖥️ and mobile 📱 experiences!
 
 ### Connect with me:
 
