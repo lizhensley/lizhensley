@@ -5,7 +5,6 @@ Hi, there! 👋 I'm a design-minded developer passionate about crafting accessib
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://images-na.ssl-images-amazon.com/images/I/31KluT5nBkL.png" />][twitter]
 
 <br />
 <br />
