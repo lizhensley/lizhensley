@@ -36,7 +36,6 @@ Hi, there! 👋 I'm a design-minded developer passionate about crafting accessib
 [<img align="left" alt="JQuery" width="26px" src="https://www.nicepng.com/png/full/274-2741839_jquery-jquery-logo-transparent-background.png" />][JQuery]
 [<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="XCode" width="26px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png" />][XCode]
 
 <br />
 <br />
