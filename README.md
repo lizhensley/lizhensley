@@ -1,72 +1,87 @@
-# Liz Hensley - @lizhensley
+# Hey, I'm Liz! 👋
 
-Hi, there! 👋 I'm a design-minded developer passionate about crafting accessible, user-centered web 🖥️ and mobile 📱 experiences!
+**Software Engineer · UI/UX Designer · HCI Graduate Student**
 
-### Connect with me:
+I'm a design-minded software engineer passionate about building thoughtful, accessible, and user-centered digital experiences. I enjoy working at the intersection of frontend engineering and design, turning complex problems into intuitive interfaces.
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
-
-<br />
-<br />
+Currently pursuing my **M.S. in Human-Computer Interaction at DePaul University**, with interests in healthcare technology, human-centered computing, and the ways people interact with technology.
 
 ---
 
-### Languages & Frameworks:
+### ✨ A little about me
 
-[<img align="left" alt="Swift" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" />][Swift]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
-[<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][Typescript]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />][Java]
-[<img align="left" alt="React" width="26px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" />][React]
-[<img align="left" alt="Angular" width="26px" src="https://miro.medium.com/max/588/1*15CYVZdpsxir8KLdxEZytg.png" />][Angular]
-
-<br />
-<br />
-
-
-### Other Tools:
-
-[<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />][Firebase]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-[<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />][Bootstrap]
-[<img align="left" alt="Material" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/440px-Google_Material_Design_Logo.svg.png" />][Material]
-[<img align="left" alt="JQuery" width="26px" src="https://www.nicepng.com/png/full/274-2741839_jquery-jquery-logo-transparent-background.png" />][JQuery]
-[<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/1QPsHvY/Git-Hub-Mark-1.png" />][GitHub]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-
-<br />
-<br />
+- 💻 Building web and mobile applications with a focus on thoughtful frontend architecture and great user experiences
+- 🎨 Interested in UI/UX design, accessibility, and design systems
+- 🏥 Passionate about healthcare technology and tools that improve people's lives
+- 🧠 Exploring HCI, user research, and human-centered approaches to emerging technology
+- 🌱 Always learning, experimenting, and working on something new
+- 🎮 Outside of coding, you'll probably find me playing Stardew Valley or exploring a new creative project
 
 ---
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lizhensley&show_icons=true&theme=tokyonight&line_height=27" height="175">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lizhensley&show_icons=true&theme=tokyonight&layout=compact" height="175">
+### 🛠️ Tech Stack & Skills
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend & Mobile Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend, Databases & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Design, UX & Research**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+- UI/UX Design & Prototyping
+- Design Systems & Component Libraries
+- Accessibility & Inclusive Design
+- User Research & Usability Testing
+- Human-Computer Interaction
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lizhensley&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhensley&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
+---
 
-<!--Links-->
-[sicklesoft]: https://www.sicklesoftinc.com/
-[optum]: https://www.optum.com/
-[linkedin]: https://linkedin.com/in/elizabethhensley
-[twitter]: https://twitter.com/_elizabethian
-[VSCode]: https://code.visualstudio.com/
-[HTML5]: https://en.wikipedia.org/wiki/HTML5
-[CSS]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
-[Bootstrap]: https://getbootstrap.com/
-[Material]: https://material.io/
-[Javascript]: https://www.javascript.com/
-[Typescript]: https://www.typescriptlang.org/
-[JQuery]: https://jquery.com/
-[Python]: https://www.python.org/
-[React]: https://reactjs.org/
-[Angular]: https://angular.io/
-[Java]: https://www.java.com/en/
-[XCode]: https://developer.apple.com/xcode/ide/
-[Swift]: https://swift.org/
-[Firebase]: https://firebase.google.com/
-[NodeJS]: https://nodejs.org/en/
-[GitHub]: https://github.com/
+### 🤝 Let's Connect!
+
+I'm always happy to connect with fellow developers, designers, researchers, and anyone working on interesting things.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizabethhensley)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lizhensley)
+
+---
+
+<p align="center">
+  <i>Building things for people, not just for screens. ✨</i>
+</p>
